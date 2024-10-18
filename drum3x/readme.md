@@ -15,9 +15,9 @@ Drum3x is more than just a drum pad—it's a glimpse into a larger project aimed
 
 ### Prerequisites
 
-- **Python 3.x**
-- **C Compiler** (e.g., GCC)
-- **Pip** (Python package manager)
+- **Python 3.11**
+- **C Compiler** (GCC)
+- **Pip** (23.3.1)
 
 ### Python Packages
 
