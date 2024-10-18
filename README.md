@@ -32,7 +32,7 @@ Welcome to the **Music Repository**! This is your one-stop destination for innov
 
 ## Upcoming AI Chatbot Assistant
 
-We are thrilled to announce the development of an **AI Chatbot Assistant** that will revolutionize how you create and manipulate music samples! This intelligent assistant is designed to generate diverse samples from your recordings, enhancing your creativity and productivity.
+Im thrilled to announce the development of an **AI Chatbot Assistant** that will revolutionize how you create and manipulate music samples! This intelligent assistant is designed to generate diverse samples from your recordings, enhancing your creativity and productivity.
 
 ### What to Expect
 
@@ -51,9 +51,9 @@ We're looking for enthusiastic users to participate in beta testing. Your feedba
 
 Our journey doesn't stop here! We're working on an array of tools to expand your musical horizons:
 
-- **SynthMasterX**: An advanced synthesizer with customizable waveforms, filters, and modulation options.
-- **LoopStation Pro**: A looping tool that allows layering and manipulating multiple tracks in real-time.
-- **FXForge**: A suite of sound effects and processing tools to add depth and texture to your projects.
+- **SynthMaster3X**: An advanced synthesizer with customizable waveforms, filters, and modulation options.
+- **LoopStation3Pro**: A looping tool that allows layering and manipulating multiple tracks in real-time.
+- **3FXForge**: A suite of sound effects and processing tools to add depth and texture to your projects.
 
 Stay tuned for updates on these exciting projects!
 
@@ -77,9 +77,8 @@ This repository and its contents are licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- **Community**: A huge thank you to all our users and contributors. Your support fuels our passion.
 - **Open-Source Libraries**: We leverage amazing open-source technologies like Pygame, Matplotlib, and more.
-- **Future Collaborators**: We're excited about potential partnerships and collaborations that will take these projects to the next level.
+- **Future Collaborators**: Excited about potential partnerships and collaborations that will take these projects to the next level.
 
 ---
 
