@@ -1,14 +1,13 @@
 # Drum3x
 
-Welcome to **Drum3x**, the ultimate drum pad experience! Drum3x transforms your keyboard into a dynamic drum machine with a sleek, gaming-inspired interface. Whether you're a budding musician or just looking to have some fun, Drum3x offers an engaging platform to unleash your rhythm skills.
+Welcome to **Drum3x**, the ultimate drum pad experience! Drum3x transforms your keyboard into a dynamic drum machine. Whether you're a budding musician or just looking to have some fun, Drum3x offers an engaging platform to unleash your rhythm skills.
 
 ## Features
 
 - 🎹 **9 Dynamic Drum Pads**: A 3x3 grid of responsive pads, each linked to unique drum sounds.
 - 💻 **Keyboard Integration**: Play beats effortlessly using intuitive keyboard shortcuts.
 - 🎶 **Record & Playback**: Capture your creative sequences and replay them with precise timing.
-- 🎮 **Gaming-Inspired UI**: Immerse yourself in a dark-themed interface with neon highlights and a real-time CPU utilization graph styled like a gaming HUD.
-- 📈 **System Performance Monitor**: Keep an eye on your system's performance with a live-updating, gaming-styled CPU usage graph.
+- 📈 **System Performance Monitor**: Keep an eye on your system's performance.
 
 Drum3x is more than just a drum pad—it's a glimpse into a larger project aimed at redefining interactive music experiences. Stay tuned for exciting updates!
 
@@ -71,7 +70,16 @@ python drum3x.py
 ```
 
 __Controls__
-Drum Pads: Click on the buttons or use the keyboard keys to play beats.
+
+1.Drum Pads: Click on the buttons or use the keyboard keys to play beats.
+
+2.Record: Click the Record button to start recording your beat sequence.
+
+3.Stop: Click the Stop button to stop recording.
+
+4.Play: Click the Play button to play back your recorded sequence.
+
+5.System Performance Monitor: A separate window displays the CPU usage over time.
 
 __Key Bindings:__
 
@@ -82,22 +90,16 @@ a s d
 z x c
 ```
 
-Record: Click the Record button to start recording your beat sequence.
-
-Stop: Click the Stop button to stop recording.
-
-Play: Click the Play button to play back your recorded sequence.
-
-System Performance Monitor: A separate window displays the CPU usage over time with a gaming-inspired graph.
-
 ## Screenshots
 
 
 ## Troubleshooting
 
-No Sound: Ensure your sound files are correctly named and placed in the beats folder. Check that they are in the correct format.
-Application Crashes: Make sure all dependencies are installed and that you're using compatible versions.
-Key Bindings Not Working: Ensure the application window is focused when pressing keys.
+-No Sound: Ensure your sound files are correctly named and placed in the beats folder. Check that they are in the correct format.
+
+-Application Crashes: Make sure all dependencies are installed and that you're using compatible versions.
+
+-Key Bindings Not Working: Ensure the application window is focused when pressing keys.
 
 ## Contribution
 Drum3x is part of a larger vision to create interactive and immersive music applications. If you're interested in contributing or have ideas to enhance Drum3x, feel free to open an issue or submit a pull request.
@@ -111,5 +113,6 @@ Pygame: For providing a powerful library to handle audio playback.
 Matplotlib: For making it easy to embed dynamic graphs in the application.
 Psutil: For accessing system performance metrics.
 Community: Thanks to everyone who has inspired and supported this project.
-Unleash your inner rhythm and take the first step into an exciting musical journey with Drum3x!
+
 ```
+Unleash your inner rhythm and take the first step into an exciting musical journey with Drum3x!
