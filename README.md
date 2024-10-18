@@ -26,7 +26,7 @@ Welcome to the **Music Repository**! This is your one-stop destination for innov
 - 🎶 **Record & Playback**: Capture your creative sequences and replay them with precise timing.
 - 🎮 **Gaming-Inspired UI**: Immerse yourself in a dark-themed interface with neon highlights and a real-time CPU utilization graph.
 
-[Learn more about Drum3x](./drum3x/README.md)
+[Learn more about Drum3x](./drum3x/readme.md)
 
 ---
 
