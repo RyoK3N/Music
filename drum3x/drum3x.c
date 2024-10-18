@@ -9,7 +9,7 @@
 
 typedef struct {
     int beat_id;
-    int timestamp;  // milliseconds since start of recording
+    int timestamp;  
 } BeatRecord;
 
 static BeatRecord recording[MAX_RECORDING_LENGTH];
