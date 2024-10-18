@@ -49,29 +49,31 @@ Note: The sound files should be in uncompressed 16-bit PCM WAV format. You can c
 ffmpeg -i input.wav -acodec pcm_s16le -ar 44100 output.wav
 ```
 
-Compile the C Library
+## Compile the C Library
+
 Compile drum3x.c into a shared library.
 
-On macOS/Linux:
+__On macOS/Linux:__
 
 ```bash
 gcc -shared -o libdrum3x.so -fPIC drum3x.c
 ```
-On Windows:
+__On Windows:__
 
 ```bash
 gcc -shared -o drum3x.dll -Wl,--out-implib,libdrum3x.a -Wl,--export-all-symbols -Wl,--enable-auto-import drum3x.c
 ```
-Usage
+__Usage__
+
 Run the application:
 ```bash
 python drum3x.py
 ```
 
-Controls
+__Controls__
 Drum Pads: Click on the buttons or use the keyboard keys to play beats.
 
-Key Bindings:
+__Key Bindings:__
 
 ```css
 Copy code
@@ -88,25 +90,26 @@ Play: Click the Play button to play back your recorded sequence.
 
 System Performance Monitor: A separate window displays the CPU usage over time with a gaming-inspired graph.
 
-Screenshots
+## Screenshots
 
 
-Troubleshooting
+## Troubleshooting
 
 No Sound: Ensure your sound files are correctly named and placed in the beats folder. Check that they are in the correct format.
 Application Crashes: Make sure all dependencies are installed and that you're using compatible versions.
 Key Bindings Not Working: Ensure the application window is focused when pressing keys.
 
-Contribution
+## Contribution
 Drum3x is part of a larger vision to create interactive and immersive music applications. If you're interested in contributing or have ideas to enhance Drum3x, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
-
+## Acknowledgments
+```css
 Pygame: For providing a powerful library to handle audio playback.
 Matplotlib: For making it easy to embed dynamic graphs in the application.
 Psutil: For accessing system performance metrics.
 Community: Thanks to everyone who has inspired and supported this project.
 Unleash your inner rhythm and take the first step into an exciting musical journey with Drum3x!
+```
