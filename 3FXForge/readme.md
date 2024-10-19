@@ -12,7 +12,7 @@ Load Recordings: Automatically load WAV files from the recordings directory.
 Playback Controls: Play, pause, stop, and navigate through recordings.
 
 ### Effects:
-
+```css
 Reverb: Adjustable room size parameter.
 
 Compressor: Adjustable threshold and ratio parameters.
@@ -20,7 +20,7 @@ Compressor: Adjustable threshold and ratio parameters.
 Save Processed Audio: Save your processed recordings as new WAV files.
 
 CPU Usage Monitoring: Separate window displaying CPU usage.
-
+```
 ## Installation
 ### Prerequisites
       Python 3.6 or higher
