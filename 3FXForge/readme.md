@@ -107,10 +107,14 @@ python gui_application.py
       This window updates every second and can help monitor the application's performance.
 
 ### File Structure
-gui_application.py: Main GUI application script.
-audio_processing.py: Audio processing module using Pedalboard.
-recordings/: Directory containing WAV recordings.
-requirements.txt: List of Python package dependencies.
+
+            gui_application.py: Main GUI application script.
+            
+            audio_processing.py: Audio processing module using Pedalboard.
+            
+            recordings/: Directory containing WAV recordings.
+            
+            requirements.txt: List of Python package dependencies.
 
 ### Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions and improvements.
