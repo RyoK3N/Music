@@ -1,12 +1,18 @@
 # 3FXForge - Audio Processing Suite
+
 ## Overview
+
 3FXForge is a Python-based graphical audio processing application that allows you to load, play, and process WAV recordings with audio effects. The application provides interactive controls for playback and lets you apply effects like Reverb and Compression to your recordings. 
 
 
 ## Features
+
 Load Recordings: Automatically load WAV files from the recordings directory.
+
 Playback Controls: Play, pause, stop, and navigate through recordings.
-### Apply Effects:
+
+### Effects:
+
 Reverb: Adjustable room size parameter.
 Compressor: Adjustable threshold and ratio parameters.
 Save Processed Audio: Save your processed recordings as new WAV files.
