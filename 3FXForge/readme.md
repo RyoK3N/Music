@@ -31,7 +31,7 @@ CPU Usage Monitoring: Separate window displaying CPU usage.
 git clone https://github.com/yourusername/3FXForge.git
 cd 3FXForge
 ```
-### If Install Dependencies :
+### If requirements.txt in 3FXForge :
 ``` bash
 pip install -r requirements.txt
 ```
