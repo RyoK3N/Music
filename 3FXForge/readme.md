@@ -51,32 +51,60 @@ python gui_application.py
 ```
 
 3. Loading Recordings
+
 The application auto-loads WAV files from the recordings directory at startup.
+
 To refresh the list manually, click the Load Recordings button.
+
 4. Playback Controls
+
 Select a Recording: Click on a recording in the list to select it.
+
 Play/Pause: Click the Play button to start or pause playback.
+
 Stop: Click the Stop button to halt playback.
+
 Previous/Next: Use the Prev and Next buttons to navigate recordings.
+
 5. Applying Effects
+
 Reverb
+
 Enable: Check the Reverb checkbox.
+
 Adjust Room Size: Set the Room Size parameter (default is 0.9).
+
 Compressor
+
 Enable: Check the Compressor checkbox.
+
 Adjust Threshold: Set the Threshold (dB) parameter (default is -24.0).
+
 Adjust Ratio: Set the Ratio parameter (default is 2.0).
+
 Apply Effects
-Click the Apply Effects button to process the selected recording with the chosen effects.
+
+Click the Apply Effects button to process the selected recording with the chosen 
+effects.
+
 A message will confirm when processing is complete.
+
 6. Playing Processed Audio
+
 After applying effects, use the playback controls to listen to the processed audio.
+
 7. Saving Processed Audio
+
 Click the Save Processed button.
+
 Choose a filename and location in the dialog that appears.
+
 The processed audio will be saved as a WAV file.
+
 8. CPU Usage Monitoring
+
 A separate window displays real-time CPU usage.
+
 This window updates every second and can help monitor the application's performance.
 
 ### File Structure
