@@ -13,9 +13,9 @@ Playback Controls: Play, pause, stop, and navigate through recordings.
 
 ### Effects:
 ```css
-Reverb: Adjustable room size parameter.
+Reverb: Adds Reverb Sound Effect to the Audio.
 
-Compressor: Adjustable threshold and ratio parameters.
+Compressor: Compresses the Audio based on a threshold.
 
 Save Processed Audio: Save your processed recordings as new WAV files.
 
