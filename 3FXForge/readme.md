@@ -28,7 +28,7 @@ CPU Usage Monitoring: Separate window displaying CPU usage.
   
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/3FXForge.git
+git clone https://github.com/RyoK3N/Music3x
 cd 3FXForge
 ```
 ### If requirements.txt in 3FXForge :
