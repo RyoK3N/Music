@@ -70,13 +70,13 @@ python gui_application.py
 
       Reverb
       
-      Enable: Check the Reverb checkbox.
+      To enable: Check the Reverb checkbox.
       
       Adjust Room Size: Set the Room Size parameter (default is 0.9).
       
       Compressor
       
-      Enable: Check the Compressor checkbox.
+      To enable: Check the Compressor checkbox.
       
       Adjust Threshold: Set the Threshold (dB) parameter (default is -24.0).
       
