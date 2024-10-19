@@ -14,14 +14,17 @@ Playback Controls: Play, pause, stop, and navigate through recordings.
 ### Effects:
 
 Reverb: Adjustable room size parameter.
+
 Compressor: Adjustable threshold and ratio parameters.
+
 Save Processed Audio: Save your processed recordings as new WAV files.
+
 CPU Usage Monitoring: Separate window displaying CPU usage.
 
 ## Installation
 ### Prerequisites
-  Python 3.6 or higher
-  pip 24.2
+      Python 3.6 or higher
+      pip 24.2
   
 ### Clone the Repository
 ```bash
